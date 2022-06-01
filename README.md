@@ -9,3 +9,7 @@ Do you process data from S3 in your orchestration? You can use this script to st
 - Create new Lambda function and paste content of [index.js](index.js) as Lambda code
 - Fill the `STORAGE_API_TOKEN` and `ORCHESTRATION_ID` in code
 - Set Event source to S3 and set your bucket and prefix
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
